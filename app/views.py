@@ -19,7 +19,6 @@ def home_view(request):
     # подбробнее о них мы поговорим на следующих лекциях
     context = {
         'pages': pages,
-        #'directory_contents': directory_contents
     }
     return render(request, template_name, context)
 
