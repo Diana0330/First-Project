@@ -1,3 +1,5 @@
+This is my solution on a homework project 'First Django Project'.
+
 # Работа с проектом и приложением
 
 ## Задание
